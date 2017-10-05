@@ -78,17 +78,6 @@
               <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
               <item name="trunk" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -150,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507210860047</updated>
-      <workItem from="1507210861310" duration="721000" />
+      <workItem from="1507210861310" duration="807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="721000" />
+    <option name="totallyTimeSpent" value="807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="34" width="1548" height="935" extended-state="0" />
